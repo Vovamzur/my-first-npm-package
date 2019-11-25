@@ -1,12 +1,16 @@
 {
   "name": "mazurfuckerpackage",
   "version": "1.0.0",
-  "description": "",
+  "description": "My first very useful package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Volodymyr Mazur",
+  "license": "ISC",
+  "homepage": "https://github.com/Vovamzur/my-first-npm-package"
 }
